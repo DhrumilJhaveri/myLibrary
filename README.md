@@ -1,2 +1,2 @@
-# myLibrary
-BSC Visual studio code
+# collisionAlgorithm
+Algorithm to detect collision between two objects
